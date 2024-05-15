@@ -174,7 +174,6 @@ After completing the setup of your Python project, including creating the necess
    - After testing on TestPyPI, if everything looks good, you can proceed with the final deployment to the production Python package repository, such as PyPI.
    - You can follow a similar process to upload your packages to PyPI using twine.
 </br>
-</br>
 
 By following these steps, you can ensure that your Python project is thoroughly tested locally and deployed to a test environment like TestPyPI before making it available to users on the main PyPI repository or other distribution channels.
 </br>
