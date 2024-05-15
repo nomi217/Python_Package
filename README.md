@@ -1,4 +1,4 @@
-# Modularization in Python
+# Modularization/Package creation in Python
 
 This project demonstrates how to modularize a Python project for better organization and maintainability.
 
