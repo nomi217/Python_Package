@@ -178,5 +178,5 @@ After completing the setup of your Python project, including creating the necess
 By following these steps, you can ensure that your Python project is thoroughly tested locally and deployed to a test environment like TestPyPI before making it available to users on the main PyPI repository or other distribution channels.
 </br>
 </br>
-Happy coding! I hope this guide simplifies Python package creation for you. :snake::sparkles:
+<b>Happy coding!</b> I hope this guide simplifies Python package creation for you. :snake::sparkles:
 
