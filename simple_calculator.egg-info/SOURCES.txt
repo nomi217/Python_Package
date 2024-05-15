@@ -1,0 +1,10 @@
+README.md
+setup.py
+calculator/__init__.py
+calculator/calculator_functionality.py
+calculator_test/__init__.py
+calculator_test/test_calculation.py
+simple_calculator.egg-info/PKG-INFO
+simple_calculator.egg-info/SOURCES.txt
+simple_calculator.egg-info/dependency_links.txt
+simple_calculator.egg-info/top_level.txt

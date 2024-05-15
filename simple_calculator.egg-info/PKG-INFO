@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: calculator-project
+Version: 0.1.0
+Summary: A simple python calculator using modular programming
+Author: Nauman Khalid <Your Name>
+Author-email: youremail@example.com
+Classifier: Programming Language :: Python :: 3
+Classifier: Lisence ::OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
